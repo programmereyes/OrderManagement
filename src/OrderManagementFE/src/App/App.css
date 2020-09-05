@@ -1,0 +1,10 @@
+div {
+    background-color: cyan;
+    font-family: fantasy;
+    border: 2px blue solid;
+}
+
+body {
+    background-image: url('../Assets/demoimg.jpg');
+    background-size: 150px;
+}
